@@ -1,0 +1,34 @@
+_repo: The-Latin--amp--Irish-Lives-of-CiaranThe-Celtic-Saints_16479
+_version: 0.1.0
+alternative_title: Latin and Irish Lives of Ciaran
+contributor:
+  translator:
+    agent_name: Macalister, Robert Alexander Stewart
+    aliases:
+    - Macalister, R. A. Stewart (Robert Alexander Stewart)
+    - Macalister, R. A. S. (Robert Alexander Stewart)
+    birthdate: 1870
+    deathdate: 1950
+    gutenberg_agent_id: '6739'
+    url: http://www.gutenberg.org/2009/agents/6739
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ciaran, Saint, abbot of Clonmacnois'
+- !lcc 'BR'
+title: 'The Latin & Irish Lives of Ciaran
+
+  Translations Of Christian Literature. Series V. Lives Of
+
+  The Celtic Saints'
+url: http://www.gutenberg.org/ebooks/16479
